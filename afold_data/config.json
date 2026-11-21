@@ -1,0 +1,86 @@
+{
+  "theme": "liquid_dark",
+  "accent": "#0078D7",
+  "font": "Segoe UI",
+  "font_size": 10,
+  "icon_size": 64,
+  "wallpaper": "blue",
+  "custom_wallpaper": "",
+  "desktop_icons": [
+    "explorer",
+    "word",
+    "excel",
+    "browser",
+    "ai",
+    "calculator",
+    "games",
+    "notes",
+    "about",
+    "screenshot"
+  ],
+  "desktop_positions": {
+    "explorer": [
+      24,
+      24
+    ],
+    "word": [
+      24,
+      116
+    ],
+    "excel": [
+      24,
+      208
+    ],
+    "browser": [
+      24,
+      300
+    ],
+    "ai": [
+      24,
+      392
+    ],
+    "calculator": [
+      24,
+      484
+    ],
+    "games": [
+      24,
+      576
+    ],
+    "notes": [
+      24,
+      668
+    ],
+    "about": [
+      124,
+      24
+    ],
+    "screenshot": [
+      124,
+      116
+    ]
+  },
+  "taskbar_order": [
+    "explorer",
+    "browser",
+    "word",
+    "excel",
+    "ai",
+    "calculator",
+    "games",
+    "screenshot",
+    "settings"
+  ],
+  "animations": true,
+  "glass": true,
+  "show_extensions": true,
+  "snap_to_grid": true,
+  "desktop_names": {},
+  "screenshot_hotkey": true,
+  "language": "ru",
+  "notifications": true,
+  "tray_seconds": true,
+  "activated": false,
+  "license_key": "",
+  "desktop_layout_v3": true
+}

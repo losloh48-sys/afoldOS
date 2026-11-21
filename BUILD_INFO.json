@@ -1,0 +1,18 @@
+{
+  "product": "AFold OS",
+  "version": "4.0 Python Glass Alpha 1",
+  "build": "4001",
+  "base": "AFold OS Beta 3.0 Build 7584",
+  "ui": "Tkinter Liquid Glass-inspired visual layer",
+  "preserved": [
+    "Store",
+    "Engine",
+    "LiquidWindow",
+    "embedded Word Pro",
+    "embedded PyExcel",
+    "AFold app registry"
+  ],
+  "known_limitations": [
+    "True per-pixel backdrop blur is not available for Tkinter child Frames"
+  ]
+}
